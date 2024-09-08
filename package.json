@@ -16,8 +16,7 @@
     "helmet": "^2.0.0",
     "needle": "2.2.4",
     "serve-favicon": "^2.3.0",
-    "swig": "^1.4.2",
-    "underscore": "^1.8.3"
+    "swig": "^1.4.2"
   },
   "comments": {
     "//": "a9 insecure components"
