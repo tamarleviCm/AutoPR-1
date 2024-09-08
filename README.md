@@ -1,5 +1,5 @@
 # AutoPR-1
-this is a project for Dem
+this is a project for Demo
 
 
 
